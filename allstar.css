@@ -1,10 +1,10 @@
-body{
+body {
 
         background-color: #FFFAFA;
 
 }
 
-.wrapper{
+.wrapper {
 
         height: 420px;
         width: 654px;
@@ -16,7 +16,7 @@ body{
 
 }
 
-.allstar-imagem{
+.produtoimagem {
 
         float: left;
         height: 420px;
@@ -26,7 +26,7 @@ body{
 
 }
 
-.allstar-info{
+.produtoinfo {
 
         float: right;
         height: 420px;
@@ -36,9 +36,50 @@ body{
 
 }
 
-.allstar-texto{
+.produtotexto {
 
         height: 10px;
         width: 327px;
 
 }
+.produtotexto h1 {
+
+        margin: 0 0 0 0 38px;
+        padding-top: 1px;
+        font-size: 34px;
+        color: blueviolet;
+
+}
+
+.produtotexto h1,
+.botaopreço p {
+
+        font-family:'Benthman', serif;
+
+}
+
+.produtotexto h2 {
+
+        margin: 0 0 47px 38px;
+        font-size: 13px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: aqua;
+ 
+}
+
+.produtotexto p {
+
+        height: 225px;
+        padding-bottom: 100px;
+        margin: 0 0 47px 38px;
+        font-family: 'Playfair Display', serif;
+        color: fuchsia;
+        line-height: 1.7cm;
+        font-size: 15px;
+        font-weight: lighter;
+        overflow: hidden;
+
+}
+
