@@ -24,13 +24,13 @@ body {
         border-radius: 7px 0 0 7px;
         background-color: #FFFAFA;
 
-}o
+}
 
 .produtoinfo {
 
-        float: left;
+        float: right;
         height: 420px;
-        width: 327px;
+        width: 400px;
         border-radius: 0 7px 10px 7px;
         background-color: #FFFAFA;
 
@@ -92,11 +92,11 @@ body {
         position: relative;
     }
     
-    .botaopreco p{
+.botaopreco p{
     
         display: inline-block;
         position: absolute;
-        top:-13px;
+        top:-44px;
         height: 50px;
         font-family: 'Trocchi', serif;
         margin: 0 0 0 50px;
@@ -106,7 +106,7 @@ body {
     
     }
     
-    span{
+span{
     
         display: inline-block;
         height: 110px;
@@ -122,7 +122,7 @@ body {
         display: inline-block;
         height: 50px;
         width: 176px;
-        margin: 0 60px 0 16px;
+        margin: 0 90px 0 16px;
         box-sizing: border-box;
         border: transparent;
         border-radius: 60px;
